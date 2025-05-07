@@ -1,1 +1,1 @@
-## Email MicroService (Clean Architecture) - SOLID
+## Email MicroService (Clean Architecture) - SOLID - AWS SES 
