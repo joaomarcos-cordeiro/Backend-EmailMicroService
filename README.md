@@ -6,7 +6,7 @@ Backend‑EmailMicroService é um microserviço desenvolvido em Java com Spring 
 - Funcionalidades
 Permite receber requisições HTTP para envio de e‑mail.
 
-Componentização clara: controllers para interface, serviços para lógica, modelos/DTOs para dados — seguindo boas práticas de arquitetura.
+Componentização clara: controllers para interface, serviços para lógica, modelos/DTOs para dados (seguindo boas práticas de arquitetura).
 
 Configuração externa (via application.properties), possibilitando configuração de SMTP ou provedores de e‑mail sem alterar código.
 
