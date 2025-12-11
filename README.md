@@ -4,6 +4,7 @@ Microserviço criado para realizar o envio de e‑mails de forma independente, s
 
 
 - Funcionalidades
+  
 Permite receber requisições HTTP para envio de e‑mail.
 
 Componentização clara: controllers para interface, serviços para lógica, modelos/DTOs para dados (seguindo boas práticas de arquitetura).
