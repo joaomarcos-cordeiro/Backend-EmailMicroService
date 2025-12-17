@@ -7,7 +7,7 @@ Microserviço criado para realizar o envio de e‑mails de forma independente, s
   
 Permite receber requisições HTTP para envio de e‑mail.
 
-Componentização clara: controllers para interface, serviços para lógica, modelos/DTOs para dados (seguindo boas práticas de arquitetura).
+Componentização clara: controllers para interface, serviços para lógica, modelos/DTOs para dados.
 
 Configuração externa (via application.properties), possibilitando configuração de SMTP ou provedores de e‑mail sem alterar código.
 
