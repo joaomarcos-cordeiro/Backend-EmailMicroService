@@ -1,6 +1,6 @@
 ## Email MicroService (Clean Architecture) - SOLID - AWS SES - AWS IAM
 
-Microserviço para realizar o envio de e‑mails de forma independente, seguindo princípios (Clean Architecture). O serviço pode ser usado por aplicações front‑end ou outros microserviços para disparar e-mails como confirmações, notificações ou reset de senha.
+Microserviço para realizar o envio de e‑mails de forma independente, seguindo princípios (Clean Architecture).
 
 
 ``` Funcionalidades ```
@@ -11,7 +11,7 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 
 ◦ Configuração externa (via application.properties), possibilitando configuração de SMTP ou provedores de e‑mail sem alterar código.
 
-◦ Microserviço independente — pode ser integrado a diversos front-ends ou outros serviços da sua aplicação.
+◦ Microserviço independente — pode ser integrado a diversos front-ends ou outros serviços.
 
 ``` Cenários```
 
