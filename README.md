@@ -11,7 +11,7 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 
 ◦ Configuração externa (via application.properties), possibilitando configuração de SMTP ou provedores de e‑mail sem alterar código.
 
-◦ Microserviço independente — pode ser integrado a diversos front-ends ou outros serviços.
+◦ Microserviço independente (pode ser integrado a diversos front-ends ou outros serviços).
 
 ``` Cenários```
 
