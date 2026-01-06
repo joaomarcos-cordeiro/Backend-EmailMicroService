@@ -22,3 +22,27 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 ◦ Notificações automáticas (ex: pedido concluído, alertas, relatório, etc.).
 
 ◦ Logs ou alertas para administradores.
+
+## Eng~~
+
+Microservice to send emails independently, following Clean Architecture principles.
+
+Features
+
+◦ Allows receiving HTTP requests to send emails.
+
+◦ Clear componentization: controllers for the interface layer, services for business logic, and models/DTOs for data.
+
+◦ External configuration (via application.properties), enabling SMTP or email provider setup without changing the code.
+
+◦ Independent microservice (can be integrated with multiple front-ends or other services).
+
+Use Cases
+
+◦ Sending confirmation emails for new users.
+
+◦ Password reset via email.
+
+◦ Automatic notifications (e.g., order completed, alerts, reports, etc.).
+
+◦ Logs or alerts for administrators.
