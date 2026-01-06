@@ -23,7 +23,7 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 
 ◦ Logs ou alertas para administradores.
 
-## English ->
+## ~~~ English ->
 
 Microservice to send emails independently, following Clean Architecture principles.
 
