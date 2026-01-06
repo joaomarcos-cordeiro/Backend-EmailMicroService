@@ -23,11 +23,11 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 
 ◦ Logs ou alertas para administradores.
 
-## Eng~~
+=English=======================================================================================================
 
 Microservice to send emails independently, following Clean Architecture principles.
 
-Features
+```Features ```
 
 ◦ Allows receiving HTTP requests to send emails.
 
@@ -37,7 +37,7 @@ Features
 
 ◦ Independent microservice (can be integrated with multiple front-ends or other services).
 
-Use Cases
+``` Use Cases ```
 
 ◦ Sending confirmation emails for new users.
 
