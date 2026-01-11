@@ -2,7 +2,7 @@
 
 Microserviço para realizar o envio de e‑mails de forma independente, seguindo princípios (Clean Architecture).
 
--  Stack Tecnológica
+Stack Tecnológica
 
 - **Java 17+**
 - **Spring Boot**
