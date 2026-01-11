@@ -2,6 +2,20 @@
 
 Microserviço para realizar o envio de e‑mails de forma independente, seguindo princípios (Clean Architecture).
 
+-  Stack Tecnológica
+
+- **Java 17+**
+- **Spring Boot**
+- **Spring Web**
+- **Spring Mail**
+- **AWS SDK**
+  - SES (Simple Email Service)
+  - S3 (Simple Storage Service)
+  - SQS (Simple Queue Service)
+- **Maven**
+- **REST API**
+- **Clean Architecture**
+- **SOLID**
 
 ``` Funcionalidades ```
   
@@ -22,6 +36,8 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 ◦ Notificações automáticas (ex: pedido concluído, alertas, relatório, etc.).
 
 ◦ Logs ou alertas para administradores.
+
+
 
 ## ~~~ English ->
 
