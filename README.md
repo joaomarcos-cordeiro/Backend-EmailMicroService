@@ -25,7 +25,7 @@ Microserviço para realizar o envio de e‑mails de forma independente, seguindo
 
 
 
-## ``` ~~~ Eng -> ```
+## ``` ~~~ English -> ```
 
 Microservice to send emails independently, following Clean Architecture principles.
 
